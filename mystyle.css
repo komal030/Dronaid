@@ -1,0 +1,111 @@
+body{
+margin:0;
+padding:0;
+}
+
+.topbar{
+margin-top:-10px;
+background-color: orange;
+align-item: center;
+
+}
+
+.chopchop{
+
+  display: inline-block;
+  width: 400px;
+  height: 30px;
+
+  }
+
+
+li{
+  display: inline-block;
+font-weight:bold;
+padding-right:70px;
+
+  }
+}
+.menu2{
+margin-right:auto;
+align-item:center;
+
+}
+
+.menu{
+display: flex;
+text-align:center;
+padding-top:0;
+margin-top:-15px;
+}
+
+.logo
+{
+margin-right:auto;
+}
+
+
+.standard{
+display: flex;
+}
+
+
+.blocks1{ 
+margin-top:20px;
+margin-bottom:20px;
+ float:left;
+  background:grey;
+                width:32%;
+                height:280px;  
+               color:white;
+             border: 5px solid white;
+            }
+.blocks2{  
+margin-top:20px;
+margin-bottom:20px;
+  float:left;
+                background:grey;
+                width:33.5%;
+                height:280px;               
+color:white;
+border: 5px solid white;
+            }
+
+.blocks3{   
+margin-top:20px;
+margin-bottom:20px;
+                 float:right;
+                background:grey;
+                width:32%;
+                height:280px;
+color:white;
+border: 5px solid white;
+            }
+
+
+
+footer
+{
+background:black;
+color:white;
+}
+
+.standard3{
+display:flex;
+}
+
+.footerblocks1{
+  max-width:32%;
+padding:10px 0 0 10px;
+font-size:14px;
+}
+
+.footerblocks2{
+padding-left:30px;
+  padding-right:220px;
+
+}
+
+.footerblocks3{
+margin-right:20px;
+}
